@@ -76,3 +76,7 @@ C # + WPF에서 개발하고 있습니다.
 MIT 라이센스하에 공개하는 오픈 소스 / 자유 소프트웨어입니다.
 
 
+---+
+KCV by grabacr7
+Forked by Freyya
+Improved for my needs by me
